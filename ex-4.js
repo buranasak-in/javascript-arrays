@@ -23,6 +23,6 @@ employees.push(
     age: 19,
     hobbies: ["Computer games", "Wakeboard"]
   }
-)
+);
 
 console.log(employees);

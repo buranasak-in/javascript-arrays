@@ -15,5 +15,7 @@ let alex = employees[1].name;
 let alexHobbies = employees[1].alexHobbies;
 let alexAndJamesAge = (employees[1].age) + (employees[0].age);
 
+console.log(alex);
+console.log(alexHobbies);
 console.log(alexAndJamesAge);
 
